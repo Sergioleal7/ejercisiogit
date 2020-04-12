@@ -1,11 +1,9 @@
 body {
     margin: auto;
-    font-family: 'Courier New', Courier, monospace
 }
 .header {
     color: brown;
     text-align: center;
-    border: 1px solid brown;
     margin: 50px;
 }
 

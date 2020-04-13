@@ -1,6 +1,7 @@
 body {
     margin: auto;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: #333;
 }
 .cabecera {
     margin: 50px;
@@ -26,6 +27,7 @@ body {
     text-align: center;
     border: 1px solid black;
     margin: 50px;
+    background-color: #ffffff;
 }
 
 p {

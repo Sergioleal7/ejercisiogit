@@ -25,6 +25,11 @@ body {
     
 }
 
+span {
+    color: blueviolet;
+    background: #ffffff;
+}
+
 .container {
     text-align: center;
     border: 1px solid black;

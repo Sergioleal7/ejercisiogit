@@ -4,6 +4,7 @@ Un estudiante de platzi que esta aprendiendo a usar git y github.
 
 EXPERIMENTO 1
 
+EXPERIMENTO 2
+
 En este caso esta aprendiendo a usar el comando rebase, el cual solo deberia ser usado en desarrollo local. Es una muy mala practica mandarlo 
-a un repositorio remoto.
-Master 2
+a un repositorio remoto.Master 2

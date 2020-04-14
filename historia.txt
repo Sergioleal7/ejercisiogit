@@ -2,7 +2,8 @@ Esta es la hisotria de checho.
 
 Un estudiante de platzi que esta aprendiendo a usar git y github.
 
+EXPERIMENTO 1
+
 En este caso esta aprendiendo a usar el comando rebase, el cual solo deberia ser usado en desarrollo local. Es una muy mala practica mandarlo 
 a un repositorio remoto.
-
 Master 2

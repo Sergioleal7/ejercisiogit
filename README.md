@@ -9,10 +9,9 @@ En este curso se aprende cosas como:
 - Integrar trabajo de equipos
 - Que es GitHub
 - Flujos de trabajo en GitHub
-- Creado por checho
-- Y muchas cosas mas
-- Incluye ejemplo windows, linux y mac
-- Y eso es todo
-- Disponible para todas las edades
+- Y muchas cosas más
+- HOLA HOLA
+- swnfdjsabFJKSdnfksnajf
+- Hecho por el team platzi
 
 *### Gracias por ver este README.md hecho en pandao*r
